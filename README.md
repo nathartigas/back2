@@ -1,7 +1,5 @@
 # Validador de Links 🚀
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 Este repositorio abriga um projeto criado em Node.js e JavaScript. Caso interessado(a), abaixo você pode encontrar um guia de como configurar este projeto para usa-lo como preferir!! 😎
 
 lembrando que as ferramentas que você deve utilizar para a execução e alteração são: Visual Code Studio e NodeJS
